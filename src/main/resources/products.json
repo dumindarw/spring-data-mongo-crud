@@ -1,0 +1,62 @@
+[
+  {
+    "_class": "com.drw.mongoex.model.Product",
+    "id": 1,
+    "name": "LED TV",
+    "modelNumber": 101,
+    "brand": "Samsung",
+    "url": "/home/Pictures/a.jpg",
+    "price": 10000,
+    "category": ["tv","smart-tv", "electronics"]
+  },
+  {
+    "_class": "com.drw.mongoex.model.Product",
+    "id": 2,
+    "name": "Phone",
+    "modelNumber": 102,
+    "brand": "Samsung",
+    "url": "/home/Pictures/b.jpg",
+    "price": 1000,
+    "category": ["smart-phone","gps-device","4g-device", "electronics"]
+  },
+  {
+    "_class": "com.drw.mongoex.model.Product",
+    "id": 3,
+    "name": "WiFi Router",
+    "modelNumber": 103,
+    "brand": "Huawei",
+    "url": "/home/Pictures/c.jpg",
+    "price": 1400,
+    "category": ["router","4g-device", "electronics"]
+  },
+  {
+    "_class": "com.drw.mongoex.model.Product",
+    "id": 4,
+    "name": "Blender",
+    "modelNumber": 104,
+    "brand": "Phillips",
+    "url": "/home/Pictures/d.jpg",
+    "price": 1500,
+    "category": ["kitchenware", "electronics"]
+  },
+  {
+    "_class": "com.drw.mongoex.model.Product",
+    "id": 5,
+    "name": "Oven",
+    "modelNumber": 105,
+    "brand": "Suga",
+    "url": "/home/Pictures/e.jpg",
+    "price": 2000,
+    "category": ["kitchenware", "electronics"]
+  },
+  {
+    "_class": "com.drw.mongoex.model.Product",
+    "id": 6,
+    "name": "HiFi Setup",
+    "modelNumber": 106,
+    "brand": "Sony",
+    "url": "/home/Pictures/f.jpg",
+    "price": 5000,
+    "category": ["music-device", "electronics"]
+  }
+]
